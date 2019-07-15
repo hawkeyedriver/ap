@@ -1,5 +1,5 @@
 ---
-title: false
+title: Johns Creek Computer Science
 ---
 
 # Hello, world!
