@@ -12,8 +12,7 @@
 
 
 * [**Curriculum**]({{ "/curriculum" | relative_url }})
-* [Period 4]({{ "/periods/4" | relative_url }})
-* [Period 6]({{ "/periods/6" | relative_url }})
+
 
 ***
 
